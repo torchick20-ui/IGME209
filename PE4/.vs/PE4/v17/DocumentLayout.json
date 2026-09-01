@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k1w14\\OneDrive\\Documents\\GitHub\\IGME209\\PE4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F605BE-B3AD-451F-97F5-23ACB6A2114C}|PE4.vcxproj|C:\\Users\\k1w14\\OneDrive\\Documents\\GitHub\\IGME209\\PE4\\PE4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29F605BE-B3AD-451F-97F5-23ACB6A2114C}|PE4.vcxproj|solutionrelative:PE4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PE4.cpp",
+              "DocumentMoniker": "C:\\Users\\k1w14\\OneDrive\\Documents\\GitHub\\IGME209\\PE4\\PE4.cpp",
+              "RelativeDocumentMoniker": "PE4.cpp",
+              "ToolTip": "C:\\Users\\k1w14\\OneDrive\\Documents\\GitHub\\IGME209\\PE4\\PE4.cpp*",
+              "RelativeToolTip": "PE4.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-01T13:54:37.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
