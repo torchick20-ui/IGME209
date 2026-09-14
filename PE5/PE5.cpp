@@ -23,21 +23,30 @@ void generateRandom(int numberOfRandoms)
 char* reverseString(char inputString[])
 
 {
-
+    //empty array to copy into
     char newString[256] = "";
-
+    //loop control with input string length
     int length = strlen(inputString);
 
     for (int i = 0; i < length; i++)
 
     {
-
+        //character is the current letter in the input word
         char c = inputString[i];
 
+        //example: hello -> length 5
+        //5-0 =5, newString[5] = o
+        //5-1 = 4 newString[4] = l, etc
+        //[3] = l
+        //[2] = e
+        //[1] = h
+        //no 0 index because i starts at 0 instead of 1
         newString[length - i] = c;
 
     }
 
+    //because the loop always leaves 0 empty, it counts as an empty string, so it always returns an empty string.
+    //to fix it, you could do int i = 0; i <= length instead
     strcpy_s(inputString, 128, newString);
 
     return inputString;
@@ -49,9 +58,9 @@ int main()
 {
     char userString[100];
     std::cout << "Write a string to reverse: \t " ;
-    //std::cin.getline(, userString) >> userString;
+    std::cin.getline(userString, 100);
+    std::cout << "\nReversed word: " << reverseString(userString) << "\n";
 
-    reverseString(userString);
     // get user input from the keyboard
     generateRandom(25);
 }
