@@ -1,0 +1,4 @@
+﻿  PE5.cpp
+C:\Users\k1w14\OneDrive\Documents\GitHub\IGME209\PE5\PE5.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\k1w14\OneDrive\Documents\GitHub\IGME209\PE5\PE5.cpp(29,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PE5.vcxproj -> C:\Users\k1w14\OneDrive\Documents\GitHub\IGME209\PE5\x64\Debug\PE5.exe

@@ -13,7 +13,7 @@ int main()
     char wordTwo[] = "expialidocious";
 
     strcat_s(wordOne, wordTwo);
-
+    std::cout << wordOne << "\n";
     
     //bool for if end is reached
     bool foundLetter = true;
