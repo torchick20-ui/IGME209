@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\k1w14\OneDrive\Documents\GitHub\IGME209\HW1-Hangman\main.cpp(85,65): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  HW1-Hangman.vcxproj -> C:\Users\k1w14\OneDrive\Documents\GitHub\IGME209\HW1-Hangman\x64\Debug\HW1-Hangman.exe
